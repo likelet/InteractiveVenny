@@ -35,7 +35,7 @@ To install the latest development build directly from GitHub, run this:
 ```R
 if (!require("devtools"))
   install.packages("devtools")
-devtools::install_github("likelet/PlotAppForTBtools")
+devtools::install_github("likelet/InteractiveVenny")
 ```
 ### Update Information
 ####2016-8-15
